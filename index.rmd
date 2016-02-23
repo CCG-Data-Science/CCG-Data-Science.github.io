@@ -55,6 +55,7 @@ I would be very interested in any comments you have regarding this outline desig
 #### Applications of Data Science
 * Supervised and unsupervised learning examples from science, business and marketing
 * Examples using time series data, high throughput biology etc
+* Examples from text analytics, NLP
 
 #### Large Scale Data Analysis
 * Use of the Hadoop ecosystem, inc virtual machines, HDFS, Map Reduce, Spark.

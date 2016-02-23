@@ -24,7 +24,7 @@ I would be very interested in any comments you have regarding this outline desig
 * R, Python, Git/GitHub
 
 #### Getting and Cleaning Data
-* issing values, scaling, normalisation
+* Missing values, scaling, normalisation
 * JSON, XML etc
 
 #### Linear Algebra
@@ -44,8 +44,8 @@ I would be very interested in any comments you have regarding this outline desig
 
 ### <span style="color:blue">Second Year</span>
 #### Machine Learning
-* Logistic regression, Trees, Ensemble methods, SVMs, Neural Networks
-* Bias/ Variance trade off; LDimension Reduction
+* Logistic regression, trees, ensemble methods, SVMs, Neural Networks
+* Bias/ Variance trade off; dimension reduction
 
 #### Communication of Data Science Results
 * Visualisation: ggplot2
@@ -53,8 +53,8 @@ I would be very interested in any comments you have regarding this outline desig
 * Use of GitHub pages, Shiny, RPubs etc.
 
 #### Applications of Data Science
-* Supervised and Unsupervised learning examples from science, business and marketing
-* Examples using Time series data, High throughput biology etc
+* Supervised and unsupervised learning examples from science, business and marketing
+* Examples using time series data, high throughput biology etc
 
 #### Large Scale Data Analysis
 * Use of the Hadoop ecosystem, inc virtual machines, HDFS, Map Reduce, Spark.

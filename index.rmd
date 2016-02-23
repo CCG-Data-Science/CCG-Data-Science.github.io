@@ -5,15 +5,17 @@ date: "23 February 2016"
 output: html_document
 ---
 
-We are scoping interest in a new qualification in Data Science. At this very early stage, the shape and content of the course is very fluid, but a strong possibility is that we offer a full-time, two year HE qualification known as a Foundation Degree, which is broadly equivalent to the fist two years of a bachelors degree.
+We are scoping interest in a new qualification in Data Science. Broadly, we would like our graduates to be able to take a data set, ask the right questions of that data and be able to produce from it a data product which enables useful action.
 
-The intention is to equip learners with the skills to work in data science/data analytics. On completion of the course learners could either seek employment or, possibly, complete their honours degree in the BSc Data Analytics and Modelling.
+At this very early stage, the shape and content of the course is very fluid, but a strong possibility is that we offer a full-time, two year HE qualification known as a Foundation Degree, which is broadly equivalent to the fist two years of a bachelors degree.
+
+On completion of the course learners could either seek employment or, possibly, complete their honours degree in the BSc Data Analytics and Modelling.
 
 A possible outline course design is shown below.
 
 I would be very interested in any comments you have regarding this outline design, but also in whether you think
 
-* there is demand for the skills taught in this course
+* there is demand for the skills taught in this course, at the level that someone could reach after two years of full-time study.
 * there is demand, but this course has some serious omissions, which are...
 * there is demand, but even if the course were OK, graduates from Cornwall College would not get employment in this field because.....
 

@@ -1,17 +1,73 @@
 ---
-title: "CCG-DS"
-author: "PH525"
+title: "Proposal for an FdSc Data Science at Cornwall College"
+author: "Michael Hunt, michael.hunt@cornwall.ac.uk"
 date: "23 February 2016"
 output: html_document
 ---
 
 We are scoping interest in a new qualification in Data Science. At this very early stage, the shape and content of the course is very fluid, but a strong possibility is that we offer a full-time, two year HE qualification known as a Foundation Degree, which is broadly equivalent to the fist two years of a bachelors degree.
 
-An outline course design is shown below:
+The intention is to equip learners with the skills to work in data science/data analytics. On completion of the course learners could either seek employment or, possibly, complete their honours degree in the BSc Data Analytics and Modelling.
 
+A possible outline course design is shown below.
 
 I would be very interested in any comments you have regarding this outline design, but also in whether you think
 
 * there is demand for the skills taught in this course
-* there is demand, but this course has some serious okmission, which are...
+* there is demand, but this course has some serious omissions, which are...
 * there is demand, but even if the course were OK, graduates from Cornwall College would not get employment in this field because.....
+
+-----  
+
+### <span style="color:blue">First Year</span>
+#### Introduction to Programming 
+* R, Python, Git/GitHub
+
+#### Getting and Cleaning Data
+* issing values, scaling, normalisation
+* JSON, XML etc
+
+#### Linear Algebra
+* Matrix algebra, vectorization of code.
+
+#### Statistical Inference and Regression Modelling
+* Probability, distributions, inference, simulation, linear regression, significance testing, Bayesian analysis.
+
+#### Data Bases and Spreadsheets
+* SQLite & integration with Python
+* Excel & equivalents.
+
+#### GIS
+* Use of QGIS/Python and R for geospatial analysis  
+
+-----
+
+### <span style="color:blue">Second Year</span>
+#### Machine Learning
+* Logistic regression, Trees, Ensemble methods, SVMs, Neural Networks
+* Bias/ Variance trade off; LDimension Reduction
+
+#### Communication of Data Science Results
+* Visualisation: ggplot2
+* Use of R Markdown, Ipython notebooks
+* Use of GitHub pages, Shiny, RPubs etc.
+
+#### Applications of Data Science
+* Supervised and Unsupervised learning examples from science, business and marketing
+* Examples using Time series data, High throughput biology etc
+
+#### Large Scale Data Analysis
+* Use of the Hadoop ecosystem, inc virtual machines, HDFS, Map Reduce, Spark.
+
+#### Research Project
+* Work on a science/business application along the whole workflow pipeline;
+* Produce useful data product 
+
+#### Work Placement  
+
+-----
+
+Many thanks,
+
+Michael Hunt  
+michael.hunt@cornwall.ac.uk

@@ -5,7 +5,7 @@ date: "23 February 2016"
 output: html_document
 ---
 
-We are scoping interest in a new qualification in Data Science. Broadly, we would like our graduates to be able to take a data set, ask the right questions of that data and be able to produce from it a data product which enables useful action.
+We are scoping interest in a new qualification in Data Science. Broadly, we would like our graduates to be able to take a data set, ask the right questions of that data and be able to produce from it a data product which enables useful action. The data might be in the form of spreadsheets, or large, messy and require the use of cloud based solutions.
 
 At this very early stage, the shape and content of the course is very fluid, but a strong possibility is that we offer a full-time, two year HE qualification known as a Foundation Degree, which is broadly equivalent to the fist two years of a bachelors degree.
 

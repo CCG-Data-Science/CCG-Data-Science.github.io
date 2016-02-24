@@ -27,10 +27,12 @@ I would be very interested in any comments you have regarding this outline desig
 
 #### Getting and Cleaning Data
 * Missing values, scaling, normalisation
+* regular expressions, use of dplyr
 * JSON, XML etc
 
 #### Linear Algebra
 * Matrix algebra, vectorization of code.
+* Applications to large data sets
 
 #### Statistical Inference and Regression Modelling
 * Probability, distributions, inference, simulation, linear regression, significance testing, Bayesian analysis.
@@ -58,6 +60,7 @@ I would be very interested in any comments you have regarding this outline desig
 * Supervised and unsupervised learning examples from science, business and marketing
 * Examples using time series data, high throughput biology etc
 * Examples from text analytics, NLP
+* Anomaly detection, recommender systems.
 
 #### Large Scale Data Analysis
 * Use of the Hadoop ecosystem, inc virtual machines, HDFS, Map Reduce, Spark.

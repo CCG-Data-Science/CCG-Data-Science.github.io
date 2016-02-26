@@ -9,6 +9,8 @@ We are scoping interest in a new qualification in Data Science. Broadly, we woul
 
 At this very early stage, the shape and content of the course is very fluid, but a strong possibility is that we offer a full-time, two year HE qualification known as a Foundation Degree, which is broadly equivalent to the fist two years of a bachelors degree.
 
+
+
 On completion of the course learners could either seek employment or, possibly, complete their honours degree in the BSc Data Analytics and Modelling.
 
 A possible outline course design is shown below.
@@ -16,8 +18,9 @@ A possible outline course design is shown below.
 I would be very interested in any comments you have regarding this outline design, but also in whether you think
 
 * there is demand for the skills taught in this course, at the level that someone could reach after two years of full-time study.
+* where you think this demand lies ie who needs these graduates
 * there is demand, but this course has some serious omissions, which are...
-* there is demand, but even if the course were OK, graduates from Cornwall College would not get employment in this field because.....
+* there is demand, but to attract students the course would need a USP which would be...
 
 -----  
 
@@ -29,6 +32,8 @@ I would be very interested in any comments you have regarding this outline desig
 * Missing values, scaling, normalisation
 * regular expressions, use of dplyr
 * JSON, XML etc
+* Sources of data, inc. Public datasets
+* Ethics, data protection, FOI and licensing, etc
 
 #### Linear Algebra
 * Matrix algebra, vectorization of code.
@@ -49,7 +54,8 @@ I would be very interested in any comments you have regarding this outline desig
 ### <span style="color:blue">Second Year</span>
 #### Machine Learning
 * Logistic regression, trees, ensemble methods, SVMs, Neural Networks
-* Bias/ Variance trade off; dimension reduction
+* Bias/ Variance trade off
+* Unsupervised learning; clustering, dimension reduction
 
 #### Communication of Data Science Results
 * Visualisation: ggplot2
@@ -57,7 +63,7 @@ I would be very interested in any comments you have regarding this outline desig
 * Use of GitHub pages, Shiny, RPubs etc.
 
 #### Applications of Data Science
-* Supervised and unsupervised learning examples from science, business and marketing
+* Examples from science, business and marketing
 * Examples using time series data, high throughput biology etc
 * Examples from text analytics, NLP
 * Anomaly detection, recommender systems.

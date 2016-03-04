@@ -1,28 +1,59 @@
 ---
 title: "Proposal for an FdSc Data Science at Cornwall College"
 author: "Michael Hunt, michael.hunt@cornwall.ac.uk"
-date: "23 February 2016"
+date:    "03-03-2016"
 output: html_document
 ---
 
-We are scoping interest in a new qualification in Data Science. Broadly, we would like our graduates to be able to take a data set, ask the right questions of that data and be able to produce from it a data product which enables useful action. The data might be in the form of spreadsheets, or large, messy and require the use of cloud based solutions.
+----
+
+#### What we are proposing
+We are scoping interest in a new qualification in Data Science.
 
 At this very early stage, the shape and content of the course is very fluid, but a strong possibility is that we offer a full-time, two year HE qualification known as a Foundation Degree, which is broadly equivalent to the fist two years of a bachelors degree.
 
+On completion of the course learners could either seek employment or, possibly, complete their honours degree in a suitable progression route, which might have a business, computer science or mathematics focus.
 
+----
 
-On completion of the course learners could either seek employment or, possibly, complete their honours degree in the BSc Data Analytics and Modelling.
+#### Approach to teaching and learning
+Here is our proposed approach to teaching and learning in this degree:
+
+The field of data science is multidisciplinary and most data scientists will work in teams, to a brief. A trawl of the full text of many thousands of job adverts on Indeed.com under the search terms "data + scientist" (3300 hits) or "data + analyst" (9100 hits) shows that the word "experience" is mentioned in over 80% of them. In contrast, no single qualification is mentioned in more than 20% of them.
+
+Thus it is vital that the qualification delivers an opportunity to gain real experience through work related and work based learning in multidisciplinary teams.
+
+Moreover, in 2015, UK Universities  reported that
+
+_"As business and research interest in data expands, so too does the demand for workers able to analyse and interpret datasets. The potential to utilise data hinges on the supply of skilled individuals. However, research suggests that employers are struggling to find suitable candidates for data roles"_
+
+_"The data skills shortage is not simply characterised by a lack of recruits with the right technical skills, but rather by a lack of recruits with the right combination of skills."_
+
+_"Usually, a combination of technical skills is achieved through multi-disciplinary teams, with every team member possessing deep skills in several areas and basic knowledge in others"_
+
+We propose that for part of Stage One and most of Stage Two of the degree, the teaching should be problem based, with students working in teams with clients to solve a specific analytics problem that may have a textual, visualisation, machine learning or other focus, but where the outcome is an analytics product in the form of a report, a paper, a presentation or all three. The students will need to work with those who have the specific domain knowledge, get and clean the data, identify the relevant analytical tools and methods, conduct an analysis then show the client how to turn the results of that analysis into actions. 
+
+----
+
+#### What we would like to know
 
 A possible outline course design is shown below.
 
-I would be very interested in any comments you have regarding this outline design, in particular on:
+I would be very interested in any comments you have regarding this outline design and approach, in particular on:
 
-* Do you think there is demand for the skills taught in this course, at the level that someone could reach after two years of full-time study.
-* Where do you think this demand lies ie who needs these graduates
-* Do you think this course has some serious omissions, which are...
-* Do you think there is demand, but to attract students the course would need a USP which would be...
+* Do you think there is demand for the skills taught in this course, at the level that someone could reach after two years of full-time study?
+* Where do you think this demand lies? ie who needs these graduates?
+* Do you think this course has some serious omissions, which are...?
+* Do you think there is demand, but to attract students the course would need a USP which would be...?
+* Do you think the approach to learning is appropriate?
+* Would your company like to be involved in this qualification, as a "client" provider of data to be analysed? If not, can you suggest any that you think would?
 
------  
+
+Please feel free to respond directly, or through this .[short SurveyMonkey survey](https://www.surveymonkey.co.uk/r/NK7V6DK)
+
+----
+
+#### Course Content
 
 ### <span style="color:blue">First Year</span>
 #### Introduction to Programming 
@@ -82,4 +113,8 @@ I would be very interested in any comments you have regarding this outline desig
 Many thanks,
 
 Michael Hunt  
-michael.hunt@cornwall.ac.uk
+Cornwall College  
+Science and Natural Environment  
+michael.hunt@cornwall.ac.uk  
+07540 172 613  
+ [R^G^](https://www.researchgate.net/profile/Michael_Hunt3)
